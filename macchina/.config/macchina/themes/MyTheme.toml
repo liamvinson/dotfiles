@@ -1,0 +1,32 @@
+# Vinson Theme
+
+padding = 10
+separator = ""
+hide_ascii = true
+key_color = "Yellow"
+
+[palette]
+glyph = "■ "
+visible = false
+
+[bar]
+glyph           = "●"
+symbol_open     = '['
+symbol_close    = ']'
+hide_delimiters = true
+visible         = true
+
+[keys]
+kernel          = "kernel"
+terminal        = "terminal"
+shell           = "shell"
+packages        = "mackages"
+machine         = "machine"
+
+uptime          = "uptime"
+cpu             = "processor"
+backlight       = "brightness"
+cpu_load        = "computing"
+battery         = "battery"
+memory          = "memory"
+
